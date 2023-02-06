@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Qingcheng\'s Site"
-  description: "Personal blog"
+  description: "Qingcheng Zhao's Homepage"
   keywords: [Blog, Portfolio, PaperMod]
   author: "Qingcheng Zhao"
   # author: ["Me", "You"] # multiple authors
@@ -51,7 +51,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Qingcheng Zhao's Homepage"
-    subtitle: "Hello \U0001F44B, I am Qingcheng, an undergraduate student."
+    subtitle: "Hi \U0001F44B, big welcome to my site! 🎉🎉🎉"
     imageUrl: "me.jpg"
     imageWidth: 120
     imageHeight: 120
