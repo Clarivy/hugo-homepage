@@ -10,9 +10,10 @@ Hi, there! 👋 I'm glad you found my website.
 ## I'm currently...
 
 - 🎓 A Computer Science student at ShanghaiTech University.
+- 🎈 An OIer / ACMer - Programming Contest Enthusiast.
 - 🌱 Interested in Machine Learning, and Computer Graphics.
 - 🌐 Learning more about Web Development, working with both React and Vue.
-- 📷 Photography and Videography Enthusiast.
+- 📷 Love taking photos and filming videos.
 - 💼 Having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction.
 
 
@@ -28,6 +29,17 @@ Hi, there! 👋 I'm glad you found my website.
     >
 </iframe>
 </div>
+
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
+<iframe
+    src="https://github-readme-streak-stats.herokuapp.com/?user=clarivy&hide_border=true&background=EBEBEB00&theme=tokyonight&mode=weekly"
+    style="border: 0;"
+    >
+    </iframe>
+</div>
+
+![skillicons](https://skillicons.dev/icons?i=cpp,py,pytorch,qt,cmake,git,github,linux,md,matlab,react,regex,vim,vite,vscode,vue,nextjs,nodejs,fastapi,docker,d3,js,ts,html,css,arduino,blender,c,webpack,visualstudio)
+
 
 ## Experience
 
