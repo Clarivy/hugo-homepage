@@ -20,12 +20,12 @@ Hi, there! 👋 I'm glad you found my website.
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
     src="https://github-readme-stats.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
-    style="border: 0;"
+    style="border: 0;overflow: hidden;"
     >
 </iframe>
 <iframe
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarivy&theme=transparent&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&include_orgs=true"
-    style="border: 0;"
+    style="border: 0;overflow: hidden;"
     >
 </iframe>
 </div>
