@@ -75,22 +75,20 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
 
 ## Awards
 
-### Bronze Medal
+{{< award 
+    href="/posts/about/images/CCPC_HRB.jpg"
+    prize="Bronze Medal"
+    name="2021 China Collegiate Programming Contest, Harbin Site"
+>}}
 
-#### 2021 China Collegiate Programming Contest, Harbin Site
+{{< award 
+    href="/posts/about/images/ECFinal.jpg"
+    prize="One-hundred Fourth Place"
+    name="2021 ICPC Asia-East Continent Final Contest"
+>}}
 
-{{< figure src="/posts/about/images/CCPC_HRB.jpg" height="300" align="center" >}}
-
-### One-hundred Fourth Place
-
-#### 2021 ICPC Asia-East Continent Final Contest
-
-{{< figure src="/posts/about/images/ECFinal.jpg" height="300" align="center" >}}
-
-### First Prize
-
-#### Shanghai Makers Contest
-
-{{< figure src="/posts/about/images/ShanghaiMaker.jpg" height="300" align="center" >}}
-
-## Skills
+{{< award 
+    href="/posts/about/images/ShanghaiMaker.jpg"
+    prize="First Prize"
+    name="Shanghai Makers Contest"
+>}}

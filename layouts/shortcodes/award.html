@@ -1,0 +1,12 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div>
+  <span style="font-size: 24px; font-weight: bold;">
+    {{ .Get "prize" }}
+  </span>
+  <span> @ </span>
+  <a href="{{ .Get "href" }}">
+    <span style="font-size: 16px; font-weight:normal;">
+        {{ .Get "name" }}
+    </span>
+  </a>
+</div>
