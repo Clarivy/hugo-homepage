@@ -5,7 +5,15 @@ date: 2023-01-26T16:25:07+08:00
 draft: false
 ---
 
-I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am interested in Machine Learning, and Computer Graphics. I am currently having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction technology.
+Hi, there! 👋 I'm glad you found my website.
+
+## I'm currently...
+
+- 🎓 A Computer Science student at ShanghaiTech University.
+- 🌱 Interested in Machine Learning, and Computer Graphics.
+- 🌐 Learning more about Web Development, working with both React and Vue.
+- 📷 Photography and Videography Enthusiast.
+- 💼 Having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction.
 
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
