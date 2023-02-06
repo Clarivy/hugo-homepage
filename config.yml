@@ -78,6 +78,8 @@ params:
       url: "https://github.com/Clarivy/"
     - name: QQ
       url: "https://qm.qq.com/cgi-bin/qm/qr?k=LlWK_mAFaLGthi85kjsXcBkfKo47H-qd&noverify=0"
+    - name: steam
+      url: "https://steamcommunity.com/profiles/76561199022463622/"
 
   analytics:
     google:
