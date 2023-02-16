@@ -37,6 +37,10 @@ The course schedules are presented in a visually appealing and user-friendly for
 
 * Once your schedule is loaded, you can click on "导出日历文件"(Export to Calendar) to download an ICS file.
 
+{{< InlineGallery >}}
+{{< GalleryItem src="/posts/CoursePrettier/images/table-light.jpg" caption="Course Table" height=300 >}}
+{{< /InlineGallery >}}
+
 * CoursePrettier generates an ICS (iCalendar) file that you can import into various calendar applications, such as Google Calendar, Apple Calendar, or Microsoft Outlook. You can open your preferred calendar application and then import the ICS file into it.
 
 That's a basic overview of how to use CoursePrettier. It is designed to be intuitive and easy to use, so you should be able to start using it right away after logining in. If you have any questions or issues, you can always refer to the documentation or contact me.
