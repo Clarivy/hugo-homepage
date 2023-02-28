@@ -61,8 +61,8 @@ params:
         url: about
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      - name: Resume
+        url: https://raw.githubusercontent.com/Clarivy/Resume/main/resume.pdf
 
   # home-info mode
   homeInfoParams:
@@ -114,18 +114,12 @@ menu:
       name: search
       url: search
       weight: 20
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: github
       name: my github
       url: https://github.com/Clarivy/
       weight: 30
+    - name: source
+      url: https://github.com/Clarivy/hugo-homepage
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
