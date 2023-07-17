@@ -7,14 +7,7 @@ draft: false
 
 Hi, there! 👋 I'm glad you found my website.
 
-## I'm currently...
-
-- 🎓 Pursuing a degree in Computer Science at ShanghaiTech University.
-- 🌱 Engaged in exploring the fields of Machine Learning and Computer Graphics.
-- 🌐 Expanding my knowledge in Web Development, with hands-on experiences in React and Vue.
-- 📷 A photography and videography enthusiast.
-- 🎈 An avid participant in programming contests, with a background in OI and ACM contests.
-- 💼 Currently interning at [Deemos](https://deemos.com/), contributing to advancements in DigitalHuman and 3D face reconstruction.
+{{< About >}}
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
