@@ -9,12 +9,12 @@ Hi, there! 👋 I'm glad you found my website.
 
 ## I'm currently...
 
-- 🎓 A Computer Science student at ShanghaiTech University.
-- 🎈 An OIer / ACMer - Programming Contest Enthusiast.
-- 🌱 Interested in Machine Learning, and Computer Graphics.
-- 🌐 Learning more about Web Development, working with both React and Vue.
-- 📷 Love taking photos and filming videos.
-- 💼 Having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction.
+- 🎓 Pursuing a degree in Computer Science at ShanghaiTech University.
+- 🌱 Engaged in exploring the fields of Machine Learning and Computer Graphics.
+- 🌐 Expanding my knowledge in Web Development, with hands-on experiences in React and Vue.
+- 📷 A photography and videography enthusiast.
+- 🎈 An avid participant in programming contests, with a background in OI and ACM contests.
+- 💼 Currently interning at [Deemos](https://deemos.com/), contributing to advancements in DigitalHuman and 3D face reconstruction.
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
@@ -51,10 +51,10 @@ DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
 
 #### Development Engineer (Internship)
 
-- Built a Qt application interacting with Drones through ADB (Android Debug Bridg) that could collect, analyze and visualize data from Drones. Developed a visualization analyzer that collect 2.4Ghz, 5.2Ghz and 5.8Ghz freq scan data.
-- Using WINAPI multiprocess to speed up the data processing and visualization.
-- Profiling the existing system and optimizing the bottleneck of the application.
-- Visualized the data in real time using QCustomPlot
+- Designed a Qt application to communicate with drones via Android Debug Bridge, enabling data collection, analysis, and visualization.
+- Employed WINAPI multiprocess to streamline data processing and visualization.
+- Identified and optimized system bottlenecks to enhance application performance.
+- Utilized QCustomPlot to visualize data in real-time.
 
 <div style="display:flex; justify-content: space-between;align-items: center;">
 <h3>
@@ -66,25 +66,25 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
 
 #### Software Engineer (Internship)
 
-- Built a high precision color correction system for high accuracy and resolution 3D scanning images.
-- Built an AI model to synthesis 3D models texture from 2D images based on Nvidia StyleGAN2 and Pix2PixHD. Trained with 4x3090ti GPUs and high resolution dataset.
-- Built a real-time 3D interactive avatar system demo based on audio driven facial expression technologies.
+- Developed a high-precision color correction system for high-resolution 3D scanning images.
+- Constructed an AI model to synthesize 3D model textures from 2D images using Nvidia StyleGAN2 and Pix2PixHD.
+- Created a real-time 3D interactive avatar system demo based on audio-driven facial expression technologies.
 
 ### Senior Teaching Assistant of CS100: Introduction to Programming (Jan. 2023 - Jue. 2023)
 
-- Assignment for all students: [Game of Life](https://github.com/Clarivy/GameOfLife-Homework).
-- Recitation Class for every other week. [Recitation Slides](https://github.com/GKxxQAQ/CS100-recitations-spring2023).
-- Working with professor [Lan Xu](https://www.xu-lan.com/) about grading and invigilating exams.
-- SIST Outstanding Teaching Assistant Awrad
+- Designed assignments for student engagement: [Game of Life](https://github.com/Clarivy/GameOfLife-Homework).
+- Led bi-weekly recitation classes. [Recitation Slides](https://github.com/GKxxQAQ/CS100-recitations-spring2023).
+- Collaborated with Professor [Lan Xu](https://www.xu-lan.com/) on grading and exam supervision.
+- Recipient of the SIST Outstanding Teaching Assistant Award.
 
 ### President of [GeekPie Assosiation](https://github.com/ShanghaitechGeekPie/) (Jan. 2023 - Present)
 
-- Lead the editing of [Freshmen Handbook](https://github.com/ShanghaitechGeekPie/fresh) for our university.
-- The leader and the main developer of [CourseBench](https://github.com/ShanghaitechGeekPie/coursebench-frontend), the platform for students to discuss and comment on their courses. View it at [here](https://coursebench.geekpie.club/).
-- Host of many worhshops and lectures, such as ``DJI Workshop at ShanghaiTech`` and ``SI100B Beginner's Guide``.
-- Main developer of many other tools and games: [G22G Online Game](https://github.com/ShanghaitechGeekPie/g22g-frontend), [CoursePrettier](https://github.com/Clarivy/CoursePrettier-frontend) and [GPT Refinement System](https://github.com/Clarivy/CourseBench_GPTWorker/).
+- Led the creation of the [Freshmen Handbook](https://github.com/ShanghaitechGeekPie/fresh) for our university.
+- The driving force behind [CourseBench](https://github.com/ShanghaitechGeekPie/coursebench-frontend), a platform for students to discuss and review their courses.
+- Organizer of numerous workshops and lectures, including "DJI Workshop at ShanghaiTech" and "SI100B Beginner's Guide."
+- Developed a variety of tools and games: [G22G Online Game](https://github.com/ShanghaitechGeekPie/g22g-frontend), [CoursePrettier](https://github.com/Clarivy/CoursePrettier-frontend), and [GPT Refinement System](https://github.com/Clarivy/CourseBench_GPTWorker/).
 
-## Awards
+## Accolades
 
 {{< Award 
     href="/posts/about/images/CCPC_HRB.jpg"
