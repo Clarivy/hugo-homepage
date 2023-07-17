@@ -103,3 +103,9 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
     prize="First Prize"
     name="Shanghai Makers Contest"
 >}}
+
+{{< Award 
+    href="/posts/about/images/ta.jpg"
+    prize="2023 SIST Outstanding Teaching Assistant"
+    name="The School of Information Science and Technology, ShanghaiTech University"
+>}}
