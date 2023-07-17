@@ -16,7 +16,6 @@ Hi, there! 👋 I'm glad you found my website.
 - 📷 Love taking photos and filming videos.
 - 💼 Having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction.
 
-
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
     src="https://github-readme-stats-one-bice.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
@@ -40,7 +39,6 @@ Hi, there! 👋 I'm glad you found my website.
 
 ![skillicons](https://skillicons.dev/icons?i=cpp,py,pytorch,qt,cmake,git,github,linux,md,matlab,react,regex,vim,vite,vscode,vue,nextjs,nodejs,fastapi,docker,d3,js,ts,html,css,arduino,blender,c,webpack,visualstudio)
 
-
 ## Experience
 
 <div style="display:flex; justify-content: space-between;align-items: center;">
@@ -58,7 +56,6 @@ DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
 - Profiling the existing system and optimizing the bottleneck of the application.
 - Visualized the data in real time using QCustomPlot
 
-
 <div style="display:flex; justify-content: space-between;align-items: center;">
 <h3>
 Deemos Technologies Inc. (Nov. 2022 - Present)
@@ -72,6 +69,20 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
 - Built a high precision color correction system for high accuracy and resolution 3D scanning images.
 - Built an AI model to synthesis 3D models texture from 2D images based on Nvidia StyleGAN2 and Pix2PixHD. Trained with 4x3090ti GPUs and high resolution dataset.
 - Built a real-time 3D interactive avatar system demo based on audio driven facial expression technologies.
+
+### Senior Teaching Assistant of CS100: Introduction to Programming (Jan. 2023 - Jue. 2023)
+
+- Assignment for all students: [Game of Life](https://github.com/Clarivy/GameOfLife-Homework).
+- Recitation Class for every other week. [Recitation Slides](https://github.com/GKxxQAQ/CS100-recitations-spring2023).
+- Working with professor [Lan Xu](https://www.xu-lan.com/) about grading and invigilating exams.
+- SIST Outstanding Teaching Assistant Awrad
+
+### President of [GeekPie Assosiation](https://github.com/ShanghaitechGeekPie/) (Jan. 2023 - Present)
+
+- Lead the editing of [Freshmen Handbook](https://github.com/ShanghaitechGeekPie/fresh) for our university.
+- The leader and the main developer of [CourseBench](https://github.com/ShanghaitechGeekPie/coursebench-frontend), the platform for students to discuss and comment on their courses. View it at [here](https://coursebench.geekpie.club/).
+- Host of many worhshops and lectures, such as ``DJI Workshop at ShanghaiTech`` and ``SI100B Beginner's Guide``.
+- Main developer of many other tools and games: [G22G Online Game](https://github.com/ShanghaitechGeekPie/g22g-frontend), [CoursePrettier](https://github.com/Clarivy/CoursePrettier-frontend) and [GPT Refinement System](https://github.com/Clarivy/CourseBench_GPTWorker/).
 
 ## Awards
 
