@@ -19,7 +19,7 @@ Hi, there! 👋 I'm glad you found my website.
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
-    src="https://github-readme-stats.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
     style="border: 0;overflow: hidden;"
     >
 </iframe>
