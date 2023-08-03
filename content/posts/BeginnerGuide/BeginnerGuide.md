@@ -2,6 +2,7 @@
 title: "新生特辑 | SI100+ 信息科学初学者指南"
 url: "/beginners-guide"
 date: 2023-08-02T22:49:07+08:00
+author: ["曹宇涵", "赵清澄"]
 draft: false
 ---
 
@@ -41,3 +42,6 @@ draft: false
 ![image-20230801133340717](/posts/BeginnerGuide/images/QQ.jpg)
 
 愿这份初学者指南成为你探索信息科学世界的指南针。一起来学习吧！
+
+{{< figure src="/posts/BeginnerGuide/images/poster.jpg" title="设计：付悦" >}}
+
