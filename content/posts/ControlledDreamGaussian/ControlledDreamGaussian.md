@@ -5,8 +5,6 @@ date: 2023-12-28T14:47:05+08:00
 draft: false
 ---
 
-# Enhancing 3D Character Generation with ControlNet and LoRA
-
 <div>
     <div style="display:flex;width:140px;justify-content: space-evenly;">
         <a href="/posts/ControlledDreamGaussian/images/paper.pdf">[Paper]</a>|<a href="https://github.com/KevinXu02/ControlledDreamGaussian">[Code]</a>
