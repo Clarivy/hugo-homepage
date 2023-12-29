@@ -44,10 +44,11 @@ DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
 
 #### Development Engineer (Internship)
 
-- Designed a Qt application to communicate with drones via Android Debug Bridge, enabling data collection, analysis, and visualization.
-- Employed WINAPI multiprocess to streamline data processing and visualization.
-- Identified and optimized system bottlenecks to enhance application performance.
-- Utilized QCustomPlot to visualize data in real-time.
+- Built a Qt application using ADB to collect, analyze, and visualize data from drones, enhancing data insights and decision-making for stakeholders.
+- Developed a real-time visualization analyzer for collecting and analyzing frequency scan data (2.4Ghz, 5.2Ghz, and 5.8Ghz) from drones, leading to more accurate data interpretation.
+- Employed parallel computing techniques to accelerate data processing and visualization, achieving more efficient data analysis and a faster feedback loop.
+- Profiled and optimized the existing system, resulting in enhanced application performance and reduced processing time for data analysis.
+
 
 <div style="display:flex; justify-content: space-between;align-items: center;">
 <h3>
@@ -59,9 +60,17 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
 
 #### Software Engineer (Internship)
 
-- Developed a high-precision color correction system for high-resolution 3D scanning images.
-- Constructed an AI model to synthesize 3D model textures from 2D images using Nvidia StyleGAN2 and Pix2PixHD.
-- Created a real-time 3D interactive avatar system demo based on audio-driven facial expression technologies.
+- Created a real-time 3D interactive avatar system demo utilizing audio-driven facial expression technologies, showcased at GAIDC (Global AI Developer Conference 2023) to thousands of attendees.
+- Led the development of the Hyperhuman frontend, a web-based application on the HYPERHUMAN platform that enables users to create, edit, animate, and stylize 3D digital humans. Features include:
+  - Generation and editing of 3D digital avatar models with high-fidelity PBR textures using a prompt.
+  - Creation and modification of 3D digital avatar models from a single photo, featuring high-fidelity PBR textures.
+  - Automatic binding and RGB-video-based driving using extensive 4D and expression data. (Reference: Zhang, Longwen, et al. "Video-driven Neural Physically-based Facial Asset for Production." SIGGRAPH Asia 2022)
+  - Support for multilingual audio-driven 3D digital avatars.
+  - User-friendly stylization tool for 3D digital humans.
+  - Automatic topology conversion.
+- View the demo at [Hyperhuman Demo on Twitter](https://twitter.com/DeemosTech/status/1629871131816775681).
+- Or view our current version of [Hyperhuman](https://hyperhuman.deemos.com/)
+
 
 ### Senior Teaching Assistant of CS100: Introduction to Programming (Jan. 2023 - Jue. 2023)
 
@@ -101,4 +110,10 @@ Deemos Technologies Inc. (Nov. 2022 - Present)
     href="/posts/about/images/ta.jpg"
     prize="2023 SIST Outstanding Teaching Assistant"
     name="The School of Information Science and Technology, ShanghaiTech University"
+>}}
+
+{{< Award 
+    href="/posts/about/images/ucb.jpg"
+    prize="GLOBE Program"
+    name="College of Engineering, UC Berkeley"
 >}}
